@@ -1,0 +1,60 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 7px;
+    margin: 15px 20px 30px;
+    font-size: 18px;
+}
+.special{
+    background-color: rgb(246, 243, 237);
+    margin: 17px 15px ;
+    padding: 100px;
+    border: 1px solid rgb(252, 232, 183);
+    border-radius: 17px;
+    text-align: start;
+}
+.main_read{
+    background-color: rgb(97, 158, 11);
+    text-align: center;
+    height: 100px;
+    position: relative;
+    top: 30px;
+    color: white;
+    padding: 4px;
+    box-sizing: border-box;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.special_word{
+    background-color: rgb(97, 158, 11);
+    position: relative;
+    top: -50px; 
+    color: white;
+    padding: 20px;
+    box-sizing: border-box;
+    text-align: center;
+}
+
+.word_name{
+    padding: 4px;
+    position: relative;
+    margin-right: auto;
+    
+    
+}
+
+a {
+    background-color: rgb(97, 158, 11);
+    width:  100%;
+    height: 5%;
+    border: 2px solid black;
+    font-size: 20px;
+    text-decoration: none;
+    padding: 2px 15px ;
+    margin: 25px ;
+    margin-right: auto;
+    padding-top: 1px;
+    
+    
+}
